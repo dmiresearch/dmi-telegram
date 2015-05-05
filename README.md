@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Stories in Ready](https://badge.waffle.io/zhukov/webogram.png?label=ready&title=Ready)](https://waffle.io/zhukov/webogram)
 ## [Webogram](https://web.telegram.org) — Telegram Web App
 
@@ -89,3 +90,7 @@ The source code is licensed under GPL v3. License is available [here](/LICENSE).
 
 
 ### [Contribute](CONTRIBUTING.md)
+=======
+# dmi-telegram
+Telegram browser client based on the official Telegram https://github.com/zhukov/webogram
+>>>>>>> e870e90aa84bcb397d22ab5d9b04ce70e888a6b2
